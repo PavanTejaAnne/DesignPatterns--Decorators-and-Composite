@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ConcreteBurger
+comment1.params=protein\ weight\ bunOrBowl
+comment1.target=ConcreteBurger(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=double\ calculatePrice()
+numComments=3

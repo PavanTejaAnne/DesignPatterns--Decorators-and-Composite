@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PremiumToppingsDecorator
+comment1.params=burger\ PremiumToppingsList
+comment1.target=PremiumToppingsDecorator(Burger,\ java.util.ArrayList)
+comment2.params=
+comment2.target=double\ calculatePrice()
+numComments=3

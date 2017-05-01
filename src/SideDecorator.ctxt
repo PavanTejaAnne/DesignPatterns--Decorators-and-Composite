@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SideDecorator
+comment1.params=burger\ side
+comment1.target=SideDecorator(Burger,\ java.lang.String)
+comment2.params=
+comment2.target=double\ calculatePrice()
+numComments=3
